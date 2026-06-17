@@ -23,7 +23,7 @@ At 16 years old, I have designed and developed projects involving:
 
 # ⚡ Competitive Programming
 
-• Reached Rank #37 on Baekjoon Online Judge
+• Reached Rank #67 on Baekjoon Online Judge
 • Ranked within the top 0.11% of all users
 • Strong background in algorithms, optimization, and computational problem-solving
 
